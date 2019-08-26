@@ -1,2 +1,1 @@
-# shiyanlou
-git课程调试
+git is easy
